@@ -1,0 +1,37 @@
+GIT
+  remote: https://github.com/Elimusa/lists_of_cities.git
+  revision: 831bf5fa78d6be9e9259da5f95b734e93c8fc353
+  specs:
+    lists_of_cities (0.1.0)
+      activesupport
+      nokogiri
+
+GEM
+  remote: https://gems.ruby-china.com/
+  specs:
+    activesupport (6.0.2.1)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 0.7, < 2)
+      minitest (~> 5.1)
+      tzinfo (~> 1.1)
+      zeitwerk (~> 2.2)
+    concurrent-ruby (1.1.5)
+    i18n (1.8.2)
+      concurrent-ruby (~> 1.0)
+    mini_portile2 (2.4.0)
+    minitest (5.14.0)
+    nokogiri (1.10.7)
+      mini_portile2 (~> 2.4.0)
+    thread_safe (0.3.6)
+    tzinfo (1.2.6)
+      thread_safe (~> 0.1)
+    zeitwerk (2.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  lists_of_cities!
+
+BUNDLED WITH
+   2.1.2
